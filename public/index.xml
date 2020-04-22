@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Newhouse</title>
+    <link>/</link>
+    <description>Recent content on Alex Newhouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog Bost</title>
+      <link>/2020/04/19/first-blog-bost/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/19/first-blog-bost/</guid>
+      <description>Welcome to my blog and an introduction! Hello! I’m a data analyst and help run a terrorism research center, so if you’ve made it here, chances are you’re interested in one or both of those subjects. I want to use this blog to publish writing about interesting side projects and hobbies of mine. That’ll include anything from online extremism, to fancy data visualizations, to machine learning, to photography. I also often run into issues or challenges in my line of work that seem to not have too much documentation out there yet, so hopefully I can contribute some to filling in those gaps.</description>
+    </item>
+    
+    <item>
+      <title>Text Classification with Tweets</title>
+      <link>/2020/04/19/text-classification-with-tweets/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/19/text-classification-with-tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is the website and blog for Alex Newhouse, the Digital Research Lead at the Center on Terorrism, Extremism, and Counterterrorism in Monterey, CA.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>Alex Newhouse  766 B Jefferson St. anewhouse@middlebury.edu Monterey, CA @alexbnewhouse 93940 (303) 905-9969
+ Education  2019-2021 (expected) MS, Analytics; Georgia Institute of Technology  Online program in Data Science Coursework in Python, R, JavaScript, Deep and Machine Learning, and Data Visualization   2018 MA, Nonproliferation and Terrorism Studies; Middlebury Institute of International Studies  Financial Crimes Management Specialization Foreign Language of Study: Russian Graduate with Distinction, GPA:3.9   2018 BA, English and Political Science; Middlebury College  Russian Minor Graduated Summa cum Laude, GPA 3.</description>
+    </item>
+    
+  </channel>
+</rss>

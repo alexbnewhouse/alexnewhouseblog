@@ -1,0 +1,15 @@
+---
+title: "First Blog Bost"
+author: "Alex Newhouse"
+date: 2020-04-19
+categories: ["R"]
+tags: ["R Markdown", "Tutorials"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Welcome to my blog and an introduction!
+
+Hello! I'm a data analyst and help run a terrorism research center, so if you've made it here, chances are you're interested in one or both of those subjects. I want to use this blog to publish writing about interesting side projects and hobbies of mine. That'll include anything from online extremism, to fancy data visualizations, to machine learning, to photography. I also often run into issues or challenges in my line of work that seem to not have too much documentation out there yet, so hopefully I can contribute some to filling in those gaps.

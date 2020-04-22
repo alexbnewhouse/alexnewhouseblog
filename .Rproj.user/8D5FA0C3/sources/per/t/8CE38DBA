@@ -1,0 +1,24 @@
+{
+    "id": "8CE38DBA",
+    "path": "~/new_blog/config.toml",
+    "project_path": "config.toml",
+    "type": "toml",
+    "hash": "1402834331",
+    "contents": "",
+    "dirty": false,
+    "created": 1587318750846.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "22,19",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1587323818,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1587325033442,
+    "read_only": false,
+    "read_only_alternatives": []
+}
